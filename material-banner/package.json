@@ -1,0 +1,11 @@
+{
+  "name": "@ohos/material-banner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ets",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suvampaul",
+  "license": "ISC"
+}
